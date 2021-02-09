@@ -1,5 +1,5 @@
 # Cookie function
-## How tu use it?
+## How to use it?
 ****it's simple, let's detail everything point by point****
 
 
